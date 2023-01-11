@@ -1,0 +1,13 @@
+.carousel img{
+    height: 500px!important;
+    object-fit: cover;
+}
+
+.overlay{
+    height: 400px;
+    background-image: url(../images/overlay.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: fixed; */
+}
